@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.navbar{
+    width: 100%;
+    height: 60px;
+    background-color: #2874f0;
+    float: left;
+    padding-top: 10px;
+}
+.nav-wrapper{
+    padding-left: 190px;
+}
+.logo{
+    width: 100px;
+    height: 60px;
+    background: #2874f0;
+    text-align: center;
+    float: left;
+    font-size: small;
+}
+.logo-img{
+    width: 90px;
+}
+.logo-explore{
+    color: white;
+}
+.logo-plus{
+    color: gold;
+}
+.logo-plusImg{
+    height: 10px;
+}
+.search{
+    width: 600px;
+    height: 40px;
+    float: left;
+    margin-right: 10px;
+}
+.login-btn{
+    width: 100px;
+    height: 40px;
+    float: left;
+}
+.nav-opt{
+    float:left;
+    width: 400px;
+    height: 40px;
+    text-align: center;
+    padding-top: 10px;
+    
+}
+.nav-opt span{
+    margin-right: 40px;
+    font-size: large;
+    color: white;
+}
+.catalog{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(240, 240, 239);
+}
+.catalog-wrapper{
+    padding-left: 240px;
+}
+.cat-items{
+    float:left;
+    background-color: rgb(251, 251, 251);
+    width: 150px;
+    height: 170px;
+    margin-right: 9px;
+}
+.cat-img{
+    height: 80%;
+}
+.cat-title{
+    height: 20%;
+    text-align: center;
+}
+.banner{
+    width: 100%;
+    height: 300px;
+    background-color: rgb(211, 211, 210);
+}
+.catalog-topoffers{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(177, 177, 174);
+}
+.emi{
+    width: 100%;
+    height: 180px;
+    background-color: rgb(122, 122, 120);
+}
+.catalog-electronics{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(103, 103, 102);
+}
+.catalog-fashion{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(76, 76, 75);
+}
+.top-stories{
+    height: 500px;
+    background-color: aliceblue;
+}
+.about{
+    height: 500px;
+    background-color: rgb(43, 68, 96);
+}
+.footer{
+    height: 100px;
+    background-color: rgb(43, 68, 96);
+}
